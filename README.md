@@ -21,5 +21,5 @@ Python
 Jupyter Notebook
 Technical analysis and quantitative finance methods
 
-Notes
+Notes :
 This project is intended for research and educational purposes only. It does not constitute financial advice, and performance results may vary across market conditions.
